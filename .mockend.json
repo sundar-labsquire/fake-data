@@ -1,18 +1,5 @@
 {
   "Product": {
-    "_": {
-      "items": 100,
-      "data": [
-        {
-          "title": "First title",
-          "body": "You can use your own data or have random values generated for you."
-        },
-        {
-          "title": "Second title",
-          "body": "The rest of the posts will have random values"
-        }
-      ]
-    },
     "image": {
       "regexp": "https://picsum\\.photos/seed/[0-9]{5}/640/480"
     },
