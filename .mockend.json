@@ -28,5 +28,33 @@
         "max": 1000
       }
     }
+  },
+  "Users": {
+    
+    "name": {
+      "loremWords": {
+        "minLength": 1,
+        "maxLength": 2
+      }
+    },
+    "about": {
+      "loremParagraphs": {
+        "minLength": 10,
+        "maxLength": 100
+      }
+    },
+    "marks": {
+       "int": {
+        "min": 50,
+        "max": 100
+      }
+    },
+   
+    "age": {
+      "int": {
+        "min": 18,
+        "max": 150
+      }
+    }
   }
 }
